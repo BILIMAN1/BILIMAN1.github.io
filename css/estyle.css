@@ -1,0 +1,31 @@
+@font-face{
+	font-family:'fuen';
+	src: url(../fuentes/Dan.otf);
+	font-style: normal;
+	font-weight: 100;
+}
+
+body{
+	background-image: url(../IMG/fondo.jpg);
+	background-repeat: no-repeat;
+	background-size:100% 200%;
+	
+	
+
+font-family:fuen;
+}
+
+#main-container{
+	margin: 150px auto;
+	width: 1080px;
+}
+table{
+	
+	text-align: center;
+	width: 100%;
+	border-collapse: collapse;
+}
+tr, td{
+	
+	padding: 20px;
+}
